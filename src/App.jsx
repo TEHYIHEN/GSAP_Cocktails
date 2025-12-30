@@ -12,7 +12,6 @@ const App = () => {
         <main>
             <Navbar />
             <Hero />
-            <div className="h-dvh bg-amber-200" />
         </main>
     );
 };
